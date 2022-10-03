@@ -1,0 +1,5 @@
+TODO 01:criar minha primeira página na internet
+TODO 02:registrar um dominio .com.br para hospedar o site
+TODO 03:estudar HTML
+TODO 04:estudar CSS
+TODO 05:estudar JavaScript
